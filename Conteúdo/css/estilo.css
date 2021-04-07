@@ -1,0 +1,70 @@
+@media (max-width: 767px) {
+
+	h2 {
+		text-align: center;
+	}
+
+	h4 {
+		margin-top: 25px;
+	}
+
+	div.align-self-center p,
+	div.align-self-center a {
+		justify-content: center;
+	}
+
+	.conteudo {
+		text-align: center;
+	}
+
+	.caixa {
+		text-align: center;
+	}
+
+	.desaparecer {
+		display: none;
+	}
+
+	#primeiro-botao {
+		margin-bottom: 20px;
+	}
+
+}
+
+section {
+	overflow: hidden;
+}
+
+footer p a {
+	padding: 2px;
+	margin: 5px 10px;
+	color: #222;
+}
+
+footer p a:hover {
+	text-decoration: none;
+	color: white;
+	background-color: #333;
+}
+
+.caixa {
+	padding: 60px 0px;
+	border-bottom: 2px solid #e5e5e5;
+}
+
+.btn-outline-dark {
+	border: none;
+}
+
+#titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#juros {
+	margin-bottom: 20px;
+}
+
+#home {
+	background: #ffc107;
+	color: white;
+}
